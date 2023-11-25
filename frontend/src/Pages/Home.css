@@ -1,0 +1,12 @@
+/* https://cdn.pixabay.com/photo/2016/07/02/12/21/eclipse-1492818_1280.jpg
+ */
+
+ body{
+    /* background-color: blueviolet;
+     */
+     background-image: url('https://cdn.pixabay.com/photo/2016/07/02/12/21/eclipse-1492818_1280.jpg');
+     background-size: cover;
+     background-position: center; 
+     background-repeat: no-repeat; 
+     font-family: 'Arial', sans-serif;
+ }
